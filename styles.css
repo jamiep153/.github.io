@@ -1,0 +1,40 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.page-header {
+  color: darkviolet;
+}
+
+.section-header {
+  color: blue;
+  margin-top: 40px;
+}
+
+.page-header,
+.section-header,
+th {
+  text-align: center;
+}
+
+table {
+  border: 2px solid green;
+  margin: auto;
+  border-collapse: collapse;
+  width: 90%;
+  text-align: center;
+}
+
+th {
+  background-color: darkgrey;
+}
+
+th,
+td {
+  border: 2px solid green;
+}
+
+.code {
+  font-family: 'Lucida Console';
+  background-color: lightgray;
+}
